@@ -1,0 +1,49 @@
+
+
+img{
+    width: 25px;
+}
+
+
+.navegador{
+    background-color: rgb(174, 97, 97);
+
+}
+.arribaD {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    padding: 10px;
+    border-radius: 10%;
+    margin-right: 5px;
+}
+span {
+    margin-right: 10px;
+    color: black;
+}
+
+.titular{
+    background-color: rgb(69, 69, 69);
+    padding: 100px;
+}
+
+.titular h2{
+    color: white;
+    font-family:monospace;
+}
+
+.estiloCards {
+    background-color: rgb(27, 27, 27);
+    color: wheat;
+    min-width: 150px;
+    width: 170px;
+    width: 190px;
+    min-height: 130px;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+
+}
+
+.estiloCards img {
+    min-width: 125px;
+}
